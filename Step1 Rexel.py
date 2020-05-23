@@ -32,3 +32,4 @@ class Step1:
 i = Step1(clicks=500)
 i.click_cookie()
 i.quit_driver()
+#Das ist kein Kommentar für Git
